@@ -1,5 +1,5 @@
 html body {
-    background-color: white;
+    background-color:greenyellow;
 width: 20%;
 height: 20%;
 ;}
@@ -17,6 +17,7 @@ margin: 0;
 text-align: center;
 }
 .middle {
+    background-color: white;
     font-size: 2rem;
     font-family: cursive;
     text-align: center;
@@ -36,3 +37,5 @@ text-align: center;
     height: 30px;
     border-radius: 0px 0px 10px 10px;
 }
+.box {
+padding-bottom: 70px;}
